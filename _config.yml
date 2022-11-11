@@ -29,6 +29,7 @@ kramdow:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-theme-slate
 
 titles_from_headings:
   strip_title: true
