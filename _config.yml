@@ -17,8 +17,7 @@ linkedin_username: "josh-hall-499993203"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-#theme: "minima"
-#theme: "Serial Programmer"
+theme: "minima"
 
 rss: rss
 
@@ -29,7 +28,6 @@ kramdow:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-theme-slate
 
 titles_from_headings:
   strip_title: true
