@@ -18,11 +18,11 @@ linkedin_username: "josh-hall-499993203"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 #theme: "minima"
-theme: "Serial Programmer"
+#theme: "Serial Programmer"
 
 rss: rss
 
-kramdown:
+kramdow:
   syntax_highlighter_opts:
     disable: true
     
